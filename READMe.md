@@ -72,5 +72,3 @@
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/rahulgoraksha/count.svg)
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/rahulgoraksha/rahulgoraksha/blob/output/github-contribution-grid-snake.svg)
