@@ -30,7 +30,9 @@
   <a href="https://code.visualstudio.com/" target="_blank" >
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
   </a>
-  
+  <a href="https://www.selenium.dev/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"  height="80" /> 
+  </a>
   ## 📊 Github Stats (Expand to View) 
   
  <details>
