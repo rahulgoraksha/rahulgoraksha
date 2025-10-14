@@ -1,4 +1,4 @@
-m<!-- 🎯 Banner Section -->
+<!-- 🎯 Banner Section -->
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/%F0%9F%A4%96%20Rahul's%20AI%20%26%20ML%20Playground-0F2027?style=for-the-badge&logo=ai&logoColor=white&labelColor=2C5364&color=0F2027" width="450">
