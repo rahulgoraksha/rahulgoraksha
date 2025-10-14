@@ -1,4 +1,4 @@
-<!-- 🎯 Banner Section -->
+m<!-- 🎯 Banner Section -->
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/%F0%9F%A4%96%20Rahul's%20AI%20%26%20ML%20Playground-0F2027?style=for-the-badge&logo=ai&logoColor=white&labelColor=2C5364&color=0F2027" width="450">
@@ -90,7 +90,7 @@ Patent ID: `202321076174`
 ### 💼 Professional Experience  
 
 #### 🏢 **Senior Executive – MIS & Software Development**  
-*Bombay Coated & Special Steels Ltd | Apr 2025 – Present*  
+*JSW Steel Limited | Apr 2025 – Present*  
 - Overseeing MIS operations and ERP migration from Focus Softnet → Oracle NetSuite  
 - Data consolidation for SEBI listing (DRHP documentation)  
 - Developed internal automation tools using **Python + SQL**  
