@@ -1,7 +1,15 @@
 <!-- 🎯 Banner Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Rahul's%20AI%20&%20ML%20Playground%20🤖&fontSize=40&fontColor=FFFFFF&fontAlignY=40&animation=twinkling" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%96%20Rahul's%20AI%20%26%20ML%20Playground-0F2027?style=for-the-badge&logo=ai&logoColor=white&labelColor=2C5364&color=0F2027" width="450">
+  </a>
 </p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+%7C+Data+%26+AI+Automation;Experimenting+with+ML%2C+NLP%2C+and+Smart+Analytics" alt="Typing Animation">
+</p>
+
 
 <!-- 👨‍💻 Animated GIF -->
 <p align="center">
