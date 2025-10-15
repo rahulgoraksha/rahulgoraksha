@@ -141,17 +141,11 @@ Patent ID: `202321076174`
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:rahulgorakshajob@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rahulgoraksha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://huggingface.co/rahulgoraksha" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD54F?logo=huggingface&logoColor=black"></a>
   <a href="https://github.com/rahulgoraksha" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300" alt="Coder Typing GIF">
-</p>
 
 <h3 align="center">⭐ If you find this repo insightful, don’t forget to star it — your support inspires more AI experiments! 🌟</h3>
 
